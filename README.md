@@ -18,5 +18,5 @@ Check them out for default attributes.
 
 ## Continue with Capistrano
 
-Checkout [deploy branch of Rails3-Base](https://github.com/fs/rails3-base/tree/deploy)
-and [deploy.rb](https://github.com/fs/rails3-base/blob/deploy/config/deploy.rb)
+Checkout [deploy branch of Rails-Base](https://github.com/fs/rails-base/tree/deploy)
+and [deploy.rb](https://github.com/fs/rails-base/blob/deploy/config/deploy.rb)
